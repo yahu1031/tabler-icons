@@ -89,6 +89,8 @@ class TablerIcons {
   static const IconData camera = const TablerIconData(0xea54);
   static const IconData cash = const TablerIconData(0xea55);
   static const IconData cast = const TablerIconData(0xea56);
+  static const IconData category = const TablerIconData(0xf1f6);
+  static const IconData category_2 = const TablerIconData(0xf1f5);
   static const IconData chart_area_line = const TablerIconData(0xea57);
   static const IconData chart_area = const TablerIconData(0xea58);
   static const IconData chart_bar = const TablerIconData(0xea59);
